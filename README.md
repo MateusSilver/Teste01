@@ -2,4 +2,4 @@
  primeiro repositório versionado em git
 
 criado com objetivo de testes dos repositorios
-online e em vc code
+online e em vs code
